@@ -40,6 +40,8 @@
 
 ![Nahiankhondokar's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Nahiankhondokar&theme=dark&chart=pie)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nahiankhondokar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ### 📬 Connect with me
