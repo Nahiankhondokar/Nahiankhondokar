@@ -1,4 +1,4 @@
-# Hi there, I'm Nahian Khandakar 👋
+# Hi there, I'm Abdullah Al Nahian 👋
 ### Senior Software Engineer | PHP & Laravel Specialist
 
 <p align="left">
