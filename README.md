@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-al-nahian-8a45701b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
 <a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Name]" height="30" width="40" /></a>
-<a href="https://[YOUR-PORTFOLIO-URL]" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Portfolio" height="30" width="30" /></a>
+<a href="https://alnahian.me" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
 <p align="center">
