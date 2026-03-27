@@ -23,16 +23,16 @@
 ### 🛠️ Tech Stack & Tools
 
 #### 🐘 Backend Ecosystem
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis,postgres,sqlite,graphql,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis,postgres,sqlite,nginx)](https://skillicons.dev)
 
 #### 🎨 Frontend Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,bootstrap,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,next)](https://skillicons.dev)
 
 #### ⚙️ DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,githubactions,linux,terraform,digitalocean)](https://skillicons.dev)
 
 #### 🧰 Workflow & Productivity
-[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,postman,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,postman,git,bruno)](https://skillicons.dev)
 
 ---
 
@@ -50,8 +50,6 @@
 <a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Name]" height="30" width="40" /></a>
 <a href="https://alnahian.me" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Portfolio" height="30" width="30" /></a>
 </p>
-
-## ToDo : Uodates
 
 <p align="center">
   <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
