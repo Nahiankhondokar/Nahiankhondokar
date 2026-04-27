@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-<a href="https://alnahian-portfolio.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Portfolio" height="30" width="30" /></a>
+<a href="https://alnahian-portfolio.vercel.app" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/007/555/972/small_2x/icon-portfolio-suitable-for-art-symbol-blue-eyes-style-simple-design-editable-design-template-simple-illustration-vector.jpg" alt="Portfolio" height="30" width="30" /></a>
 </p>
 
 <p align="center">
